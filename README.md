@@ -1,1 +1,1 @@
-# Federated_Learning_OpenFL
+# Federated Learning OpenFL
