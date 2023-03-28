@@ -6,7 +6,7 @@ Federated Learning is a machine learning technique that focuses on data privacy,
 OpenFL is a Python 3 framework for Federated Learning. OpenFL is designed to be a flexible, extensible and easily learnable tool for data scientists. This framework currently offers two ways to set up and run experiments with a federation: the Director-based workflow and Aggregator-based workflow.
 
 ### Director Based Workflow
-#### 1. Create a virtual environment, install OpenFL, and upgrade pip
+#### 1. Create a virtual environment, upgrade pip, and install OpenFL
 ```
 apt-get install python3-venv -y
 python3 -m venv venv
@@ -42,4 +42,4 @@ source venv/bin/activate
 cd ./server_director/workspace/
 jupyter lab train.ipynb
 ```
-"Restart Kernel and Run All Cells"
+Restart Kernel and Run All Cells
